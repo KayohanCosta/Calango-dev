@@ -25,174 +25,353 @@ Bem-vindo ao **Calango Dev**, um hub de sites gratuitos para você aprender a de
 
 ---
 
-## 💻 Projetos Open Source / Open Source Projects
+## 🎮 Desenvolvimento de Games / Game Development
 
+### Sites
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
-| [Code Triage](https://www.codetriage.com/) | Projeto / Project | :us: | Gratuito / Free |
-| [Divertidalista](https://github.com/training-center/divertidalista) | Projeto / Project | :brazil: | Gratuito / Free |
-| [Lista Maravilhosa de Projetos Open Source](https://github.com/camilatigre/listamaravilhosaopensource) | Projeto / Project | :brazil: :us: | Gratuito / Free |
-| [First Contributions](https://firstcontributions.github.io/) | Projeto / Project | :us: | Gratuito / Free |
-| [Up For Grabs](https://up-for-grabs.net/#/) | Projeto / Project | :us: | Gratuito / Free |
+| [Cursos Oficiais Unity](https://learn.unity.com/) | Cursos / Courses | :us: | Gratuito / Free |
+| [Documentação Godot](https://docs.godotengine.org/pt_BR/) | Documentação / Documentation | :brazil: | Gratuito / Free |
+| [Tutoriais Unity](https://www.youtube.com/c/Brackeys) | Tutoriais / Tutorials | :us: | Gratuito / Free |
+| [Tutoriais Phaser](https://phaser.io/learn) | Tutoriais / Tutorials | :us: | Gratuito / Free |
+| [Engine Construct](https://www.construct.net/) | Engine / Engine | :us: | Gratuito / Free |
+| [Assets Grátis](https://kenney.nl/assets) | Assets / Assets | :us: | Gratuito / Free |
+| [Arte para Jogos](https://opengameart.org/) | Arte / Art | :us: | Gratuito / Free |
+| [Assets e Recursos](https://itch.io/game-assets) | Assets / Assets | :us: | Gratuito / Free |
+| [Editor Sprites](https://www.piskelapp.com/) | Editor / Editor | :us: | Gratuito / Free |
+| [Editor Pixel Art](https://www.aseprite.org/) | Editor / Editor | :us: | Gratuito / Free |
+| [Tutoriais Pixel Art](https://lospec.com/pixel-art-tutorials) | Tutoriais / Tutorials | :us: | Gratuito / Free |
+| [Notícias GameDev](https://www.gamedeveloper.com/) | Notícias / News | :us: | Gratuito / Free |
+| [Tutoriais GameDev](https://gamefromscratch.com/) | Tutoriais / Tutorials | :us: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Recursos GameDev BR](https://github.com/awesome-br/awesome-gamedev-br) | Recursos / Resources | :brazil: | Gratuito / Free |
+| [Comunidade Godot Brasil](https://github.com/godot-brasil) | Comunidade / Community | :brazil: | Gratuito / Free |
+| [Tutoriais Unity](https://github.com/UnityBrasil/tutoriais) | Tutoriais / Tutorials | :brazil: | Gratuito / Free |
+| [Jogos Educativos](https://github.com/paulorievrs/jogos-educativos) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Projetos de Games](https://github.com/rafaelbagama/games) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Recursos GameDev](https://github.com/brunobritodev/Game-Development-Resources) | Recursos / Resources | :brazil: | Gratuito / Free |
+| [Biblioteca C/C++](https://github.com/raysan5/raylib) | Biblioteca / Library | :us: | Gratuito / Free |
+| [Biblioteca Multimídia](https://github.com/libsdl-org/SDL) | Biblioteca / Library | :us: | Gratuito / Free |
 
 ---
 
-## 💡 Ideias / Ideas
+## 🔧 Templates e Projetos Open Source / Templates and Open Source Projects
 
+### Sites
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
-| [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) | Ideia / Project Idea | :brazil: | Gratuito / Free |
-| [App Idea Generator](https://appideagenerator.com/) | Ideia / Project Idea | :us: | Gratuito / Free |
-| [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) | Ideia / Project Idea | :us: | Gratuito / Free |
-| [Criar seu próprio guia de referência](https://www.linkedin.com/feed/update/urn:li:activity:6706199186401972224/) | Ideia / Project Idea | :brazil: | Gratuito / Free |
-| [Florin Pop/App Ideas](https://github.com/florinpop17/app-ideas) | Ideia / Project Idea | :us: | Gratuito / Free |
-| [Karan/Projects](https://github.com/karan/Projects) | Ideia / Project Idea | :us: | Gratuito / Free |
-| [Ideias para Projetos em TI](https://github.com/abrahamcalf/programming-projects) | Ideia / Project Idea | :us: | Gratuito / Free |
-| [Ideias para Devs](https://github.com/florinpop17/project-ideas) | Ideia / Project Idea | :us: | Gratuito / Free |
+| [Templates HTML5](https://html5up.net/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates Bootstrap](https://startbootstrap.com/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates HTML](https://templatemo.com/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates CSS](https://www.free-css.com/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates WordPress](https://colorlib.com/wp/templates/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates Landing Page](https://cruip.com/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates Free](https://www.tooplate.com/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates CSS3](https://templated.co/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates Bootstrap](https://www.creative-tim.com/) | Templates / Templates | :us: | Gratuito / Free |
+| [Templates Modernos](https://uideck.com/) | Templates / Templates | :us: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Comunidade Frontend BR](https://github.com/frontendbr) | Comunidade / Community | :brazil: | Gratuito / Free |
+| [Projetos BR Awesome](https://github.com/awesome-br/awesome-br) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Projetos Rocketseat](https://github.com/Rocketseat) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [APIs Públicas](https://github.com/public-apis/public-apis) | APIs / APIs | :us: | Gratuito / Free |
+| [Primeiras Contribuições](https://github.com/firstcontributions/first-contributions) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Open Source Brasil](https://github.com/open-source-brasil) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Open Source BR](https://github.com/opensourcebrasil) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Devs BR Awesome](https://github.com/awesome-devbr) | Projetos / Projects | :brazil: | Gratuito / Free |
 
 ---
 
-## 💻 Desafios / Challenges
+## 💡 Ideias de Projetos / Project Ideas
 
-### Geral / General
+### Sites
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
-| [7 days of code Alura](https://7daysofcode.io/) | Treinamento / Training | :brazil: | Gratuito / Free |
-| [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) | Desafio / Challenge | :us: | Pago / Paid |
-| [30 Seconds of Code](https://www.30secondsofcode.org/) | Treinamento / Training | :us: | Gratuito / Free |
-| [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Ace Front End Challenges](https://www.acefrontend.com/challenges) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Advent of Code](https://adventofcode.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Beecrowd](https://www.beecrowd.com.br/) | Desafio / Challenge | :brazil: :us: :es: | Gratuito / Free |
-| [Challenger.js](http://rileyjshaw.com/challenger/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Code Academy](https://www.codecademy.com/) | Treinamento / Training | :us: | Pago / Paid |
-| [CodeChef](https://www.codechef.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [CodeEval](https://www.codeeval.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Codeforces](http://codeforces.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Code:Nation](https://www.codenation.com.br/) | Desafio / Challenge | :brazil: | Gratuito / Free |
-| [CodePen Challenges](https://codepen.io/challenges/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Coderbyte](https://coderbyte.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Codewars](https://www.codewars.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Codility](https://app.codility.com/programmers/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Daily UI](http://www.dailyui.co/) | Treinamento / Training | :us: | Gratuito / Free |
-| [Dev Challenges](https://devchallenges.io) | Treinamento / Training | :us: | Gratuito / Free |
-| [DMOJ](https://dmoj.ca/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [DojoPuzzles.com](http://dojopuzzles.com/) | Desafio / Challenge | :brazil: | Gratuito / Free |
-| [Edabit](https://edabit.com/challenges) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Exercism](http://exercism.io/) | Treinamento / Training | :us: | Gratuito / Free |
-| [Frontend Challenges](https://github.com/LFeh/frontend-challenges) | Desafio / Challenge | :brazil: :us: | Gratuito / Free |
-| [Frontend Mentor](https://www.frontendmentor.io/) | Projeto / Project | :us: | Gratuito / Free |
-| [FrontLoops](https://frontloops.io/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Desafio / Challenge | :brazil: :us: | Gratuito / Free |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/) | Treinamento / Training | :us: | Gratuito / Free |
-| [Hacker earth](https://www.hackerearth.com) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Hackerrank](https://www.hackerrank.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [InterviewBit](https://www.interviewbit.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [JavaScript30](https://javascript30.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [Kaggle](https://www.kaggle.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [Kattis](https://open.kattis.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [LeetCode](https://leetcode.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [LintCode](http://www.lintcode.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [OsProgamadores](https://osprogramadores.com/desafios/) | Desafio / Challenge | :brazil: | Gratuito / Free |
-| [Programmr](http://www.programmr.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [Project Euler](https://projecteuler.net/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Regex Crossword](https://regexcrossword.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Scaler Topics](https://www.scaler.com/topics/) | Treinamento / Training | :us: | Gratuito / Free |
-| [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [SoloLearn](https://www.sololearn.com) | Treinamento / Training | :us: | Gratuito / Free |
-| [Sphere Online Judge](http://br.spoj.com/) | Desafio / Challenge | :brazil: | Gratuito / Free |
-| [SPOJ](https://www.spoj.com/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [The Huxley](https://thehuxley.com/) | Treinamento / Desafio / Training / Challenge | :brazil: :us: | Gratuito / Free |
-| [Topcoder](https://www.topcoder.com) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Upcase](https://thoughtbot.com/upcase) | Treinamento / Training | :us: | Pago / Paid |
-| [UVA](https://onlinejudge.org/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
-| [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
-| [Desafios Dev Frontend](https://github.com/felipefialho/frontend-challenges) | Desafio / Challenge | :brazil: | Gratuito / Free |
+| [Ideias para Desenvolvedores](https://ideiasparadevs.com.br/) | Ideias / Ideas | :brazil: | Gratuito / Free |
+| [Desafios 7 Days](https://7daysofcode.io/) | Desafios / Challenges | :brazil: | Gratuito / Free |
+| [Desafios Frontend](https://www.frontendmentor.io/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Desafios Programação](https://devchallenges.io/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Desafios Criativos](https://codier.io/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Desafios Realistas](https://www.codewell.cc/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Projetos para Aprender](https://www.projectlearn.io/) | Projetos / Projects | :us: | Gratuito / Free |
+| [Ideias de Projetos](https://a-pensa.github.io/project-ideas/) | Ideias / Ideas | :brazil: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Projetos Portfólio](https://github.com/alexandresanlim/ProjetosParaPortfolio) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Ideias de Apps](https://github.com/florinpop17/app-ideas) | Ideias / Ideas | :us: | Gratuito / Free |
+| [Lista de Projetos](https://github.com/karan/Projects) | Ideias / Ideas | :us: | Gratuito / Free |
+| [Tópico Project Ideas](https://github.com/topics/project-ideas) | Ideias / Ideas | :us: | Gratuito / Free |
+| [Ideias para Devs](https://github.com/orgs/IdeiasParaDevs/repositories) | Ideias / Ideas | :brazil: | Gratuito / Free |
+| [Ideias Projetos](https://github.com/marcobrunodev/ideias-projetos) | Ideias / Ideas | :brazil: | Gratuito / Free |
+| [Desafios Frontend](https://github.com/Lorenalgm/Desafios) | Desafios / Challenges | :brazil: | Gratuito / Free |
 
 ---
 
-### CSS
-| Link | Tipo / Type | Idioma / Language | Status |
-| ----- | :---: | :-----: | :---: |
-| [100dayscss](https://100dayscss.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS#id01) | Treinamento / Training | :brazil: | Gratuito / Free |
-| [CSSBatle](https://cssbattle.dev/) | Desafio / Challenge | :us: | Gratuito / Free |
-| [Daily CSS Images](https://medium.com/coding-artist/daily-css-images-everything-you-need-to-know-e53ed6c1846c) | Treinamento / Training | :us: | Gratuito / Free |
-| [Enjoy CSS](http://enjoycss.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [Flexbox](https://flexbox.io) | Treinamento / Training | :us: | Gratuito / Free |
-| [LESSTESTER](https://lesstester.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [SassMeister](https://www.sassmeister.com/) | Treinamento / Training | :us: | Gratuito / Free |
-| [W3schools CSS Exercises](https://www.w3schools.com/css/exercise.asp) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
-| [W3schools CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
-| [Flexbox Froggy (PT-BR)](http://flexboxfroggy.com/#pt-br) | Jogo / Game | :brazil: | Gratuito / Free |
-| [Grid Garden (PT-BR)](http://cssgridgarden.com/#pt-br) | Jogo / Game | :brazil: | Gratuito / Free |
+## 🏆 Desafios de Programação / Coding Challenges
 
-### JavaScript
+### Sites
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
-| [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Treinamento / Training | :us: | Gratuito / Free |
-| [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Treinamento / Training | :us: | Gratuito / Free |
-| [Free Code Camp](https://www.freecodecamp.org/) | Treinamento / Training | :us: | Gratuito / Free |
-| [W3schools JS Exercises](https://www.w3schools.com/js/exercise_js.asp) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
-| [W3schools JS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
-| [Exercícios JavaScript em PT-BR](https://github.com/thomaslima/exercicios-javascript) | Treinamento / Training | :brazil: | Gratuito / Free |
-| [JSRobot](https://lab.reaal.me/jsrobot/) | Jogo / Game | :us: | Gratuito / Free |
+| [Desafios Programação](https://www.beecrowd.com.br/) | Desafios / Challenges | :brazil: | Gratuito / Free |
+| [Problemas Lógicos](https://dojopuzzles.com/) | Desafios / Challenges | :brazil: | Gratuito / Free |
+| [Competições Programação](https://neps.academy/) | Desafios / Challenges | :brazil: | Gratuito / Free |
+| [Plataforma Desafios](https://thehuxley.com/) | Desafios / Challenges | :brazil: | Gratuito / Free |
+| [Desafios Técnicos](https://leetcode.com/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Desafios Programação](https://www.hackerrank.com/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Treino Programação](https://www.codewars.com/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Desafios Interativos](https://edabit.com/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Mentoria Code](https://exercism.org/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Competições](https://www.topcoder.com/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Olimpíadas](https://codeforces.com/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Desafios Entrevistas](https://www.coderbyte.com/) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Problemas Matemáticos](https://projecteuler.net/) | Desafios / Challenges | :us: | Gratuito / Free |
 
-### GIT
+### GitHub
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
-| [Learn Git Branching](https://learngitbranching.js.org/) | Treinamento / Training | :us: :brazil: :es: | Gratuito / Free |
+| [30 Dias CSS](https://github.com/MilenaCarecho/30diasDeCSS) | Desafios / Challenges | :brazil: | Gratuito / Free |
+| [30 Dias JavaScript](https://github.com/javascript30/javascript30) | Desafios / Challenges | :us: | Gratuito / Free |
+| [30 Dias JS](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Desafios / Challenges | :us: | Gratuito / Free |
+| [30 Dias Python](https://github.com/Asabeneh/30-Days-Of-Python) | Desafios / Challenges | :us: | Gratuito / Free |
+| [30 Dias React](https://github.com/Asabeneh/30-Days-Of-React) | Desafios / Challenges | :us: | Gratuito / Free |
+| [Cursos Gratuitos](https://github.com/alinebastos/free-courses) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Desafios Código](https://github.com/leticiadasilva/Desafios-de-Codigo) | Desafios / Challenges | :brazil: | Gratuito / Free |
 
 ---
 
-## 🎮 Jogos / Games
+## 🎓 Jogos Educativos / Educational Games
 
-### Geral / General
+### Sites
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
-| [CheckiO](https://checkio.org/) | Jogo / Game | :us: | Gratuito / Free |
-| [CodeCombat](https://codecombat.com/) | Jogo / Game | :us: | Gratuito / Free |
-| [Code Monkey](https://www.playcodemonkey.com/) | Jogo / Game | :us: | Gratuito / Free |
-| [CodeSignal](https://codesignal.com/) | Jogo / Game | :us: | Gratuito / Free |
-| [Codewars](https://www.codewars.com/) | Jogo / Game | :us: | Gratuito / Free |
-| [Code.org](https://code.org/learn) | Jogo / Game | :us: | Gratuito / Free |
-| [CodinGame](https://www.codingame.com/) | Jogo / Game | :us: | Gratuito / Free |
-| [Cyber DoJo](http://www.cyber-dojo.org/) | Jogo / Game | :us: | Gratuito / Free |
-| [Elevator Saga](http://play.elevatorsaga.com/) | Jogo / Game | :us: | Gratuito / Free |
-| [Hacker Org](http://www.hacker.org/) | Jogo / Game | :us: | Gratuito / Free |
-| [Hora do Código de Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
-| [JS Robot](https://lab.reaal.me/jsrobot/) | Jogo / Game | :us: | Gratuito / Free |
-| [Minecraft: Jornada do Herói](https://studio.code.org/s/hero/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
-| [Minecraft: Viagem aquática](https://studio.code.org/s/aquatic/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
-| [Programa com a Anna e a Elsa](https://studio.code.org/s/frozen/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
-| [Screeps](https://screeps.com/) | Jogo / Game | :us: | Gratuito / Free |
-| [Khan Academy - Jogos em JavaScript](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) | Treinamento / Training | :brazil: | Gratuito / Free |
-| [CodePark](https://codepark.com.br/) | Jogo / Game | :brazil: | Gratuito / Free |
+| [Aprender Flexbox](https://flexboxfroggy.com/) | Jogo / Game | :brazil: | Gratuito / Free |
+| [Aprender CSS Grid](https://cssgridgarden.com/) | Jogo / Game | :brazil: | Gratuito / Free |
+| [Jogo Programação](https://codecombat.com/) | Jogo / Game | :brazil: | Gratuito / Free |
+| [Jogo Programação Kids](https://www.codemonkey.com/) | Jogo / Game | :brazil: | Gratuito / Free |
+| [Desafios Interativos](https://br.coderbyte.com/) | Jogo / Game | :brazil: | Gratuito / Free |
+| [Jogo Programação](https://www.codingame.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [MMO Programação](https://screeps.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Programação Robôs](https://robocode.sourceforge.io/) | Jogo / Game | :us: | Gratuito / Free |
+| [Jogo Python/JS](https://checkio.org/) | Jogo / Game | :us: | Gratuito / Free |
+| [Aprendizado Interativo](https://www.codeavengers.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Programação Visual](https://blockly.games/) | Jogo / Game | :us: | Gratuito / Free |
+| [Lógica Programação](https://lightbot.com/) | Jogo / Game | :us: | Gratuito / Free |
 
----
-
-## 🌍 Hackathons Online / Online Hackathons
+### GitHub
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
-| [Analytics Vidhya - DataHack](https://datahack.analyticsvidhya.com/contest/all/) | Hackathon / Hackathon | :us: | Gratuito / Free |
-| [Challenge Rocket](https://challengerocket.com/hackathons-list.html) | Hackathon / Hackathon | :us: | Gratuito / Free |
-| [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) | Hackathon / Hackathon | :us: | Gratuito / Free |
+| [Ferramentas Rust](https://github.com/rust-analyzer/rust-analyzer) | Ferramentas / Tools | :us: | Gratuito / Free |
+| [Creative Coding](https://github.com/processing/processing) | Ferramentas / Tools | :us: | Gratuito / Free |
+| [Design Visual](https://github.com/p5-designer/p5-designer) | Ferramentas / Tools | :us: | Gratuito / Free |
+| [JS Robot](https://github.com/garoa/js-robot) | Ferramentas / Tools | :us: | Gratuito / Free |
 
 ---
 
-## ✏ Seja um dos contribuidores / Be a Contributor
-Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.  
-Click [HERE](CONTRIBUTING.md) and read how to contribute.
+## 📚 Cursos Gratuitos / Free Courses
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Cursos TI](https://www.cursoemvideo.com/) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Cursos Tecnologia](https://www.dio.me/) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Cursos Programação](https://app.rocketseat.com.br/) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Cursos Desenvolvimento](https://cursos.dankicode.com/) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Cursos Fundação Bradesco](https://www.ev.org.br/) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Cursos Programação](https://www.freecodecamp.org/) | Cursos / Courses | :us: | Gratuito / Free |
+| [Cursos Interativos](https://www.codecademy.com/) | Cursos / Courses | :us: | Gratuito / Free |
+| [Cursos DIO](https://web.digitalinnovation.one/) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Cursos Variados](https://www.udemy.com/courses/) | Cursos / Courses | :us: | Parcial Gratuito / Partially Free |
+| [Cursos Gratuitos](https://pt.khanacademy.org/) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Cursos Tecnologia](https://cursos.alura.com.br/) | Cursos / Courses | :brazil: | Parcial Gratuito / Partially Free |
+| [Tutoriais Gratuitos](https://www.youtube.com/c/CodigoFonteTV) | Tutoriais / Tutorials | :brazil: | Gratuito / Free |
+| [Cursos Programação](https://www.youtube.com/c/ProgramadorBR) | Cursos / Courses | :brazil: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Tutoriais Felipe Deschamps](https://github.com/felipe-augusto/deschamps) | Tutoriais / Tutorials | :brazil: | Gratuito / Free |
+| [Prática Desenvolvimento](https://github.com/alinebastos/dev-practice) | Prática / Practice | :brazil: | Gratuito / Free |
+| [Recursos Gratuitos](https://github.com/iuricode/recursos-gratuitos) | Recursos / Resources | :brazil: | Gratuito / Free |
+| [Guia Dev Brasil](https://github.com/arthurspk/guiadevbrasil) | Guia / Guide | :brazil: | Gratuito / Free |
+| [Links Úteis](https://github.com/gabrielcmarinho/links-uteis) | Links / Links | :brazil: | Gratuito / Free |
+| [Open Source](https://github.com/camilatigre/listamaravilhosaopensource) | Projetos / Projects | :brazil: | Gratuito / Free |
+| [Mentoria](https://github.com/training-center/mentoria) | Mentoria / Mentorship | :brazil: | Gratuito / Free |
 
 ---
 
-## ⚖ Licença / License
-Este projeto está licenciado. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.  
-This project is licensed. See the [LICENSE](LICENSE.md) file for more details.
+## 🛠 Ferramentas e Recursos / Tools and Resources
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Editor Frontend Online](https://codepen.io/) | Editor / Editor | :us: | Gratuito / Free |
+| [Editor JavaScript](https://jsfiddle.net/) | Editor / Editor | :us: | Gratuito / Free |
+| [IDE Online](https://replit.com/) | IDE / IDE | :us: | Gratuito / Free |
+| [Editor React Online](https://codesandbox.io/) | Editor / Editor | :us: | Gratuito / Free |
+| [Documentação Web](https://developer.mozilla.org/pt-BR/) | Documentação / Documentation | :brazil: | Gratuito / Free |
+| [Tutoriais Web](https://www.w3schools.com/) | Tutoriais / Tutorials | :brazil: | Gratuito / Free |
+| [Documentação Completa](https://devdocs.io/) | Documentação / Documentation | :brazil: | Gratuito / Free |
+| [Dicas CSS](https://css-tricks.com/) | Dicas / Tips | :us: | Gratuito / Free |
+| [Comunidade Dev](https://stackoverflow.com/) | Comunidade / Community | :us: | Gratuito / Free |
+| [Artigos Tutoriais](https://www.devmedia.com.br/) | Artigos / Articles | :brazil: | Gratuito / Free |
+| [Blog Desenvolvimento](https://tableless.com.br/) | Blog / Blog | :brazil: | Gratuito / Free |
+| [Artigos Técnicos](https://www.alura.com.br/artigos) | Artigos / Articles | :brazil: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Vagas Frontend BR](https://github.com/frontendbr/vagas) | Vagas / Jobs | :brazil: | Gratuito / Free |
+| [Vagas Backend BR](https://github.com/backend-br/vagas) | Vagas / Jobs | :brazil: | Gratuito / Free |
+| [Vagas React BR](https://github.com/react-brasil/vagas) | Vagas / Jobs | :brazil: | Gratuito / Free |
+| [Recursos Dev BR](https://github.com/ogilvieira/dev-brasil) | Recursos / Resources | :brazil: | Gratuito / Free |
+| [Livro JavaScript](https://github.com/braziljs/eloquente-javascript) | Livro / Book | :brazil: | Gratuito / Free |
+| [Livro JS](https://github.com/cezaraugusto/You-Dont-Know-JS) | Livro / Book | :brazil: | Gratuito / Free |
 
 ---
 
-<br>[⬆ Voltar ao índice / Back to index](README.md)
+## 📱 Mobile Development / Desenvolvimento Mobile
 
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Documentação React Native](https://reactnative.dev/) | Documentação / Documentation | :us: | Gratuito / Free |
+| [Documentação Flutter](https://flutter.dev/) | Documentação / Documentation | :us: | Gratuito / Free |
+| [Android Developers](https://developer.android.com/) | Documentação / Documentation | :us: | Gratuito / Free |
+| [Apple Developer](https://developer.apple.com/) | Documentação / Documentation | :us: | Gratuito / Free |
+| [Plataforma Expo](https://expo.dev/) | Plataforma / Platform | :us: | Gratuito / Free |
+| [Linguagem Kotlin](https://kotlinlang.org/) | Linguagem / Language | :us: | Gratuito / Free |
+| [Linguagem Dart](https://dart.dev/) | Linguagem / Language | :us: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Cursos Mobile Rocketseat](https://github.com/Rocketseat) | Cursos / Courses | :brazil: | Gratuito / Free |
+| [Framework Flutter](https://github.com/flutter/flutter) | Framework / Framework | :us: | Gratuito / Free |
+| [React Native](https://github.com/facebook/react-native) | Framework / Framework | :us: | Gratuito / Free |
+| [Android Open Source](https://github.com/android) | Projeto / Project | :us: | Gratuito / Free |
+| [Kotlin Language](https://github.com/kotlin) | Linguagem / Language | :us: | Gratuito / Free |
+
+---
+
+## 🗃 Banco de Dados / Databases
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Banco NoSQL](https://www.mongodb.com/) | Banco / Database | :us: | Gratuito / Free |
+| [Banco Relacional](https://www.mysql.com/) | Banco / Database | :us: | Gratuito / Free |
+| [Banco Avançado](https://www.postgresql.org/) | Banco / Database | :us: | Gratuito / Free |
+| [Banco Embarcado](https://sqlite.org/) | Banco / Database | :us: | Gratuito / Free |
+| [Banco Chave-Valor](https://redis.io/) | Banco / Database | :us: | Gratuito / Free |
+| [Banco Distribuído](https://cassandra.apache.org/) | Banco / Database | :us: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [MongoDB](https://github.com/mongodb/mongo) | Banco / Database | :us: | Gratuito / Free |
+| [MySQL](https://github.com/mysql/mysql-server) | Banco / Database | :us: | Gratuito / Free |
+| [PostgreSQL](https://github.com/postgres/postgres) | Banco / Database | :us: | Gratuito / Free |
+| [Redis](https://github.com/redis/redis) | Banco / Database | :us: | Gratuito / Free |
+
+---
+
+## 🎨 Design e UI/UX / Design and UI/UX
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Design Interface](https://www.figma.com/) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Ilustrações Grátis](https://undraw.co/) | Recursos / Resources | :us: | Gratuito / Free |
+| [Ícones e Recursos](https://icons8.com/) | Recursos / Resources | :us: | Gratuito / Free |
+| [Fontes Google](https://fonts.google.com/) | Fontes / Fonts | :us: | Gratuito / Free |
+| [Paleta de Cores](https://coolors.co/) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Gradientes CSS](https://uigradients.com/) | Recursos / Resources | :us: | Gratuito / Free |
+| [Gerador Gradientes](https://cssgradient.io/) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Framework CSS](https://getbootstrap.com/) | Framework / Framework | :us: | Gratuito / Free |
+| [Framework CSS](https://tailwindcss.com/) | Framework / Framework | :us: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Ícones Tabler](https://github.com/tabler/tabler-icons) | Ícones / Icons | :us: | Gratuito / Free |
+| [Ícones Feather](https://github.com/feathericons/feather) | Ícones / Icons | :us: | Gratuito / Free |
+| [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) | Framework / Framework | :us: | Gratuito / Free |
+| [Bootstrap](https://github.com/twbs/bootstrap) | Framework / Framework | :us: | Gratuito / Free |
+
+---
+
+## 🔐 Segurança e DevOps / Security and DevOps
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Containerização](https://www.docker.com/) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Orquestração](https://kubernetes.io/) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Segurança Web](https://www.owasp.org/) | Recursos / Resources | :us: | Gratuito / Free |
+| [Certificados SSL](https://letsencrypt.org/) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Servidor Web](https://www.nginx.com/) | Servidor / Server | :us: | Gratuito / Free |
+| [Servidor Apache](https://httpd.apache.org/) | Servidor / Server | :us: | Gratuito / Free |
+| [Protocolo SSH](https://www.ssh.com/) | Protocolo / Protocol | :us: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Docker Oficial](https://github.com/docker) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Kubernetes](https://github.com/kubernetes/kubernetes) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [OWASP Projetos](https://github.com/OWASP) | Recursos / Resources | :us: | Gratuito / Free |
+| [Apache Projects](https://github.com/apache) | Projetos / Projects | :us: | Gratuito / Free |
+
+---
+
+## 🤖 Inteligência Artificial / Artificial Intelligence
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Framework AI](https://www.tensorflow.org/) | Framework / Framework | :us: | Gratuito / Free |
+| [Framework AI](https://pytorch.org/) | Framework / Framework | :us: | Gratuito / Free |
+| [Machine Learning](https://scikit-learn.org/) | Ferramenta / Tool | :us: | Gratuito / Free |
+| [Competições AI](https://www.kaggle.com/) | Competições / Competitions | :us: | Gratuito / Free |
+| [Cursos AI](https://fast.ai/) | Cursos / Courses | :us: | Gratuito / Free |
+
+### GitHub
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [TensorFlow](https://github.com/tensorflow/tensorflow) | Framework / Framework | :us: | Gratuito / Free |
+| [PyTorch](https://github.com/pytorch/pytorch) | Framework / Framework | :us: | Gratuito / Free |
+| [Scikit-learn](https://github.com/scikit-learn/scikit-learn) | Ferramenta / Tool | :us: | Gratuito / Free |
+
+---
+
+## 🌐 Hospedagem e Deploy / Hosting and Deploy
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Hospedagem Sites](https://pages.github.com/) | Hospedagem / Hosting | :us: | Gratuito / Free |
+| [Deploy Frontend](https://vercel.com/) | Deploy / Deploy | :us: | Gratuito / Free |
+| [Deploy Sites](https://www.netlify.com/) | Deploy / Deploy | :us: | Gratuito / Free |
+| [Deploy Apps](https://heroku.com/) | Deploy / Deploy | :us: | Gratuito / Free |
+| [Plataforma Google](https://firebase.google.com/) | Plataforma / Platform | :us: | Gratuito / Free |
+| [AWS Free Tier](https://aws.amazon.com/) | Serviços / Services | :us: | Gratuito / Free |
+
+---
+
+## 📖 Documentação e Blogs / Documentation and Blogs
+
+### Sites
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Blog Desenvolvedores](https://dev.to/) | Blog / Blog | :us: | Gratuito / Free |
+| [Artigos Técnicos](https://medium.com/) | Artigos / Articles | :us: | Gratuito / Free |
+| [Notícias Tech](https://www.freecodecamp.org/news/) | Notícias / News | :us: | Gratuito / Free |
+| [Dicas CSS](https://css-tricks.com/) | Dicas / Tips | :us: | Gratuito / Free |
+| [MDN Web Docs](https://developer.mozilla.org/) | Documentação / Documentation | :brazil: | Gratuito / Free |
