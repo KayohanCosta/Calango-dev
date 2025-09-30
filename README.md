@@ -6,7 +6,7 @@
 ## 📕 Índice / Index
 
 📌 [Projetos Open Source / Open Source Projects](#-open-source-projects)<br>
-📌 [Ideias / Ideas](#-ideas)<br>
+📌 [Ideias / Ideas](##-Ideias/Ideas)<br>
 📌 [Desafios / Challenges](#-challenges)<br>
 📌 [Jogos / Games](#-games)<br>
 📌 [Hackathons Online / Online Hackathons](#-online-hackathons)<br>
