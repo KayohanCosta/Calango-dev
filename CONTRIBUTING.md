@@ -1,19 +1,36 @@
-# ✏ Guia de Contribuição / Contribution Guide
+# ✏ Guia de Contribuição
 
-Obrigado por querer contribuir para este projeto!  
-Thank you for wanting to contribute to this project!
+Obrigado por seu interesse em contribuir com nosso projeto! Este documento fornece diretrizes e processos para contribuições.
 
-Este guia irá ajudá-lo a entender como colaborar de forma eficiente, organizada e segura.  
-This guide will help you understand how to collaborate efficiently, organized, and safely.
+## 🤝 Como Contribuir
 
----
+### 1. Reportando Bugs
+- Use o template de issue para bugs
+- Descreva o comportamento esperado vs atual
+- Inclua steps para reproduzir
+- Adicione logs e screenshots se possível
 
-## 📌 Passos para Contribuir / Steps to Contribute
+### 2. Sugerindo Melhorias
+- Explique claramente a funcionalidade
+- Justifique a necessidade
+- Proponha uma solução se possível
 
-1. **Fork o repositório / Fork the repository**  
-   Clique no botão "Fork" no GitHub para criar uma cópia do projeto em sua conta.  
-   Click the "Fork" button on GitHub to create a copy of the project in your account.
+### 3. Submetendo Pull Requests
+1. Fork o repositório
+2. Crie uma branch descritiva
+3. Siga as convenções de código
+4. Adicione testes se aplicável
+5. Atualize a documentação
+6. Submeta o PR
 
-2. **Clone o projeto / Clone the project**  
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+## 🛠 Configuração do Ambiente
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/projeto.git
+
+# Instale dependências
+npm install
+
+# Execute testes
+npm test
