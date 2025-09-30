@@ -386,4 +386,4 @@ Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 
 ## ⚖ Licença
 
-Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
+Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE.md) para mais detalhes.<br>
