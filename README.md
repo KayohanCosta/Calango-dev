@@ -171,13 +171,16 @@
 ---
 
 ## ✏ Seja um dos contribuidores / Be a Contributor
-Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
+Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.  
 Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
 ---
 
 ## ⚖ Licença / License
-Este projeto está licenciado. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
-This project is licensed. See [LICENSE](LICENSE) for more details.<br>
+Este projeto está licenciado. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.  
+This project is licensed. See the [LICENSE](LICENSE) file for more details.
+
+---
 
 <br>[⬆ Voltar ao índice / Back to index](#-índice)
+
