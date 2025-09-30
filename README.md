@@ -168,18 +168,3 @@
 | [Challenge Rocket](https://challengerocket.com/hackathons-list.html) | Hackathon / Hackathon | :us: | Gratuito / Free |
 | [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) | Hackathon / Hackathon | :us: | Gratuito / Free |
 
----
-
-## ✏ Seja um dos contribuidores / Be a Contributor
-Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
-Click [HERE](CONTRIBUTING.md) and read how to contribute.
-
----
-
-## ⚖ Licença / License
-Este projeto está licenciado. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
-This project is licensed. See [LICENSE](LICENSE) for more details.<br>
-
-<br>[⬆ Voltar ao índice / Back to index](#-índice)
-
-
