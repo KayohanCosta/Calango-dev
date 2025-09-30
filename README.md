@@ -4,9 +4,10 @@
 > Practice your skills with these ideas. Here you’ll find websites with challenges, games to learn, and project ideas.
 
 ## 📕 Índice / Index
+# - Ideias
 
 📌 [Projetos Open Source / Open Source Projects](#-open-source-projects)<br>
-📌 [Ideias / Ideas](##-Ideias/Ideas)<br>
+📌 [Ideias / Ideas](#-Ideias)<br>
 📌 [Desafios / Challenges](#-challenges)<br>
 📌 [Jogos / Games](#-games)<br>
 📌 [Hackathons Online / Online Hackathons](#-online-hackathons)<br>
