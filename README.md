@@ -3,13 +3,25 @@
 > Pratique suas habilidades com essas ideias. Aqui você encontra sites com desafios, jogos para aprender e ideias para projetos.  
 > Practice your skills with these ideas. Here you’ll find websites with challenges, games to learn, and project ideas.
 
-## 📕 Índice / Index
+---
 
-📌 [Projetos Open Source / Open Source Projects](#-open-source-projects)<br>
-📌 [Ideias / Ideas](#-ideias)<br>
-📌 [Desafios / Challenges](#-challenges)<br>
-📌 [Jogos / Games](#-games)<br>
-📌 [Hackathons Online / Online Hackathons](#-online-hackathons)<br>
+# 🦎 Calango Dev Hub
+
+Bem-vindo ao **Calango Dev**, um hub de sites gratuitos para você aprender a desenvolver de várias formas!  
+
+## 🌐 Acesse o Hub
+
+[![Acesse o Site](https://img.shields.io/badge/Acesse%20o%20Site-🚀-blue?style=for-the-badge&logo=vercel)](https://calango-dev.vercel.app/)
+
+> Explore diversos projetos, aprenda com exemplos práticos e evolua suas habilidades como desenvolvedor!
+
+---
+
+### 🔹 Recursos do Hub
+- Sites educativos gratuitos
+- Projetos práticos para iniciantes e avançados
+- Inspiração para desenvolvimento web, apps e muito mais
+- Tudo online, sem necessidade de instalar nada
 
 ---
 
