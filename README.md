@@ -5,9 +5,8 @@
 
 ## 📕 Índice / Index
 
-
 📌 [Projetos Open Source / Open Source Projects](#-open-source-projects)<br>
-📌 [Ideias / Ideas](#-Ideias)<br>
+📌 [Ideias / Ideas](#-ideias)<br>
 📌 [Desafios / Challenges](#-challenges)<br>
 📌 [Jogos / Games](#-games)<br>
 📌 [Hackathons Online / Online Hackathons](#-online-hackathons)<br>
@@ -27,7 +26,6 @@
 ---
 
 ## 💡 Ideias / Ideas
-#-Ideias
 
 | Link | Tipo / Type | Idioma / Language | Status |
 | ----- | :---: | :-----: | :---: |
