@@ -178,7 +178,7 @@ Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
 ## ⚖ Licença / License
 Este projeto está licenciado. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.  
-This project is licensed. See the [LICENSE](LICENSE) file for more details.
+This project is licensed. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
