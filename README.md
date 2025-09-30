@@ -1,198 +1,185 @@
-# 🖥️ Prática do desenvolvedor
+# 🖥️ Developer Practice / Prática de Desenvolvimento
 
-> Pratique suas habilidades com essas ideias. Aqui você encontra sites com desafios, jogos para aprender e ideias para projetos.
+> Pratique suas habilidades com essas ideias. Aqui você encontra sites com desafios, jogos para aprender e ideias para projetos.  
+> Practice your skills with these ideas. Here you’ll find websites with challenges, games to learn, and project ideas.
 
-## 📕 Índice
+## 📕 Índice / Index
 
-📌 [Open Source Projects](#-open-source-projects)<br>
-📌 [Ideas](#-ideas)<br>
-📌 [Challenges](#-challenges)<br>
-📌 [Games](#-games)<br>
-📌 [Hackathons](#-online-hackathons)<br>
-
----
-
-## 💻 Open Source Projects
-
-> A melhor forma de praticar e ainda contribuir para a comunidade é ajudar em projetos Open Source.
-
-| Link | Idioma |
-| ----- | :-----: |
-| [Code Triage](https://www.codetriage.com/) | :us: |
-| [Divertidalista](https://github.com/training-center/divertidalista) | :brazil: |
-| [Lista Maravilhosa de Projetos Open Source](https://github.com/camilatigre/listamaravilhosaopensource) | :brazil: :us: |
-| [First Contributions](https://firstcontributions.github.io/) | :us: |
-| [Up For Grabs](https://up-for-grabs.net/#/) | :us: |
+📌 [Projetos Open Source / Open Source Projects](#-open-source-projects)<br>
+📌 [Ideias / Ideas](#-ideas)<br>
+📌 [Desafios / Challenges](#-challenges)<br>
+📌 [Jogos / Games](#-games)<br>
+📌 [Hackathons Online / Online Hackathons](#-online-hackathons)<br>
 
 ---
 
-## 💻 Ideias
+## 💻 Projetos Open Source / Open Source Projects
 
-> Precisa de ideias? Aqui tem várias para você começar.
-
-| Link | Idioma |
-| ----- | :-----: |
-| [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) | :brazil: |
-| [App Idea Generator](https://appideagenerator.com/) | :us: |
-| [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) | :us: |
-| [Criar seu próprio guia de referência](https://www.linkedin.com/feed/update/urn:li:activity:6706199186401972224/) | :brazil: |
-| [Florin Pop/App Ideas](https://github.com/florinpop17/app-ideas) | :us: |
-| [Karan/Projects](https://github.com/karan/Projects) | :us: |
-| [Ideias para Projetos em TI](https://github.com/abrahamcalf/programming-projects) | :us: |
-| [Ideias para Devs](https://github.com/florinpop17/project-ideas) | :us: |
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Code Triage](https://www.codetriage.com/) | Projeto / Project | :us: | Gratuito / Free |
+| [Divertidalista](https://github.com/training-center/divertidalista) | Projeto / Project | :brazil: | Gratuito / Free |
+| [Lista Maravilhosa de Projetos Open Source](https://github.com/camilatigre/listamaravilhosaopensource) | Projeto / Project | :brazil: :us: | Gratuito / Free |
+| [First Contributions](https://firstcontributions.github.io/) | Projeto / Project | :us: | Gratuito / Free |
+| [Up For Grabs](https://up-for-grabs.net/#/) | Projeto / Project | :us: | Gratuito / Free |
 
 ---
 
-## 💻 Desafios
+## 💡 Ideias / Ideas
 
-> Desafios, exercícios e entrevistas técnicas para praticar programação.
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Apenas! Crie! Websites!](https://github.com/estevanmaito/apenas-crie-websites) | Ideia / Project Idea | :brazil: | Gratuito / Free |
+| [App Idea Generator](https://appideagenerator.com/) | Ideia / Project Idea | :us: | Gratuito / Free |
+| [Create With Pure Code](https://github.com/manzolirch/create-with-pure-code) | Ideia / Project Idea | :us: | Gratuito / Free |
+| [Criar seu próprio guia de referência](https://www.linkedin.com/feed/update/urn:li:activity:6706199186401972224/) | Ideia / Project Idea | :brazil: | Gratuito / Free |
+| [Florin Pop/App Ideas](https://github.com/florinpop17/app-ideas) | Ideia / Project Idea | :us: | Gratuito / Free |
+| [Karan/Projects](https://github.com/karan/Projects) | Ideia / Project Idea | :us: | Gratuito / Free |
+| [Ideias para Projetos em TI](https://github.com/abrahamcalf/programming-projects) | Ideia / Project Idea | :us: | Gratuito / Free |
+| [Ideias para Devs](https://github.com/florinpop17/project-ideas) | Ideia / Project Idea | :us: | Gratuito / Free |
 
-### General
-| Link | Idioma |
-| ----- | :-----: |
-| [7 days of code Alura](https://7daysofcode.io/) | :brazil: |
-| [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) | :us: |
-| [30 Seconds of Code](https://www.30secondsofcode.org/) | :us: |
-| [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | :us: |
-| [Ace Front End Challenges](https://www.acefrontend.com/challenges) | :us: |
-| [Advent of Code](https://adventofcode.com/) | :us: |
-| [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) | :us: |
-| [Beecrowd](https://www.beecrowd.com.br) | :brazil: :us: :es: |
-| [Challenger.js](http://rileyjshaw.com/challenger/) | :us: |
-| [Code Academy](https://www.codecademy.com/) | :us: |
-| [CodeChef](https://www.codechef.com/) | :us: |
-| [CodeEval](https://www.codeeval.com/) | :us: |
-| [Codeforces](http://codeforces.com/) | :us: |
-| [Code:Nation](https://www.codenation.com.br/) | :brazil: |
-| [CodePen Challenges](https://codepen.io/challenges/) | :us: |
-| [Coderbyte](https://coderbyte.com/) | :us: |
-| [Codewars](https://www.codewars.com/) | :us: |
-| [Codility](https://app.codility.com/programmers/) | :us: |
-| [Daily UI](http://www.dailyui.co/) | :us: |
-| [Dev Challenges](https://devchallenges.io) | :us: |
-| [DMOJ](https://dmoj.ca/) | :us: |
-| [DojoPuzzles.com](http://dojopuzzles.com/) | :brazil: |
-| [Edabit](https://edabit.com/challenges) | :us: |
-| [Exercism](http://exercism.io/) | :us: |
-| [Frontend Challenges](https://github.com/LFeh/frontend-challenges) | :brazil: :us: |
-| [Frontend Mentor](https://www.frontendmentor.io/) | :us: |
-| [FrontLoops](https://frontloops.io/) | :us: |
-| [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | :brazil: :us: |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/) | :us: |
-| [Hacker earth](https://www.hackerearth.com) | :us: |
-| [Hackerrank](https://www.hackerrank.com/) | :us: |
-| [InterviewBit](https://www.interviewbit.com) | :us: |
-| [JavaScript30](https://javascript30.com/) | :us: |
-| [Kaggle](https://www.kaggle.com/) | :us: |
-| [Kattis](https://open.kattis.com/) | :us: |
-| [LeetCode](https://leetcode.com/) | :us: |
-| [LintCode](http://www.lintcode.com/) | :us: |
-| [OsProgamadores](https://osprogramadores.com/desafios/) | :brazil: |
-| [Programmr](http://www.programmr.com/) | :us: |
-| [Project Euler](https://projecteuler.net/) | :us: |
-| [Regex Crossword](https://regexcrossword.com/) | :us: |
-| [Scaler Topics](https://www.scaler.com/topics/) | :us: |
-| [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | :us: |
-| [SoloLearn](https://www.sololearn.com) | :us: |
-| [Sphere Online Judge](http://br.spoj.com/) | :brazil: |
-| [SPOJ](https://www.spoj.com/) | :us: |
-| [The Huxley](https://thehuxley.com/) | :brazil: :us: |
-| [Topcoder](https://www.topcoder.com) | :us: |
-| [Upcase](https://thoughtbot.com/upcase) | :us: |
-| [UVA](https://onlinejudge.org/) | :us: |
-| [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | :brazil: :us: |
-| [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | :brazil: :us: |
-| [Desafios Dev Frontend](https://github.com/felipefialho/frontend-challenges) | :brazil: |
+---
+
+## 💻 Desafios / Challenges
+
+### Geral / General
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [7 days of code Alura](https://7daysofcode.io/) | Treinamento / Training | :brazil: | Gratuito / Free |
+| [30 Days, 30 Sites](http://www.subscribepage.com/30days30sites) | Desafio / Challenge | :us: | Pago / Paid |
+| [30 Seconds of Code](https://www.30secondsofcode.org/) | Treinamento / Training | :us: | Gratuito / Free |
+| [A test-driven JS assessment](https://github.com/rmurphey/js-assessment) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Ace Front End Challenges](https://www.acefrontend.com/challenges) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Advent of Code](https://adventofcode.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Beecrowd](https://www.beecrowd.com.br/) | Desafio / Challenge | :brazil: :us: :es: | Gratuito / Free |
+| [Challenger.js](http://rileyjshaw.com/challenger/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Code Academy](https://www.codecademy.com/) | Treinamento / Training | :us: | Pago / Paid |
+| [CodeChef](https://www.codechef.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [CodeEval](https://www.codeeval.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Codeforces](http://codeforces.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Code:Nation](https://www.codenation.com.br/) | Desafio / Challenge | :brazil: | Gratuito / Free |
+| [CodePen Challenges](https://codepen.io/challenges/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Coderbyte](https://coderbyte.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Codewars](https://www.codewars.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Codility](https://app.codility.com/programmers/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Daily UI](http://www.dailyui.co/) | Treinamento / Training | :us: | Gratuito / Free |
+| [Dev Challenges](https://devchallenges.io) | Treinamento / Training | :us: | Gratuito / Free |
+| [DMOJ](https://dmoj.ca/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [DojoPuzzles.com](http://dojopuzzles.com/) | Desafio / Challenge | :brazil: | Gratuito / Free |
+| [Edabit](https://edabit.com/challenges) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Exercism](http://exercism.io/) | Treinamento / Training | :us: | Gratuito / Free |
+| [Frontend Challenges](https://github.com/LFeh/frontend-challenges) | Desafio / Challenge | :brazil: :us: | Gratuito / Free |
+| [Frontend Mentor](https://www.frontendmentor.io/) | Projeto / Project | :us: | Gratuito / Free |
+| [FrontLoops](https://frontloops.io/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Desafio / Challenge | :brazil: :us: | Gratuito / Free |
+| [GeeksforGeeks](https://www.geeksforgeeks.org/) | Treinamento / Training | :us: | Gratuito / Free |
+| [Hacker earth](https://www.hackerearth.com) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Hackerrank](https://www.hackerrank.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [InterviewBit](https://www.interviewbit.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [JavaScript30](https://javascript30.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [Kaggle](https://www.kaggle.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [Kattis](https://open.kattis.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [LeetCode](https://leetcode.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [LintCode](http://www.lintcode.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [OsProgamadores](https://osprogramadores.com/desafios/) | Desafio / Challenge | :brazil: | Gratuito / Free |
+| [Programmr](http://www.programmr.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [Project Euler](https://projecteuler.net/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Regex Crossword](https://regexcrossword.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Scaler Topics](https://www.scaler.com/topics/) | Treinamento / Training | :us: | Gratuito / Free |
+| [ShortCut Foo - Learn Shortcuts](https://www.shortcutfoo.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [SoloLearn](https://www.sololearn.com) | Treinamento / Training | :us: | Gratuito / Free |
+| [Sphere Online Judge](http://br.spoj.com/) | Desafio / Challenge | :brazil: | Gratuito / Free |
+| [SPOJ](https://www.spoj.com/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [The Huxley](https://thehuxley.com/) | Treinamento / Desafio / Training / Challenge | :brazil: :us: | Gratuito / Free |
+| [Topcoder](https://www.topcoder.com) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Upcase](https://thoughtbot.com/upcase) | Treinamento / Training | :us: | Pago / Paid |
+| [UVA](https://onlinejudge.org/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [W3schools HTML Exercises](https://www.w3schools.com/html/exercise.asp) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
+| [W3schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
+| [Desafios Dev Frontend](https://github.com/felipefialho/frontend-challenges) | Desafio / Challenge | :brazil: | Gratuito / Free |
+
+---
 
 ### CSS
-| Link | Idioma |
-| ----- | :-----: |
-| [100dayscss](https://100dayscss.com/) | :us: |
-| [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS#id01) | :brazil: |
-| [CSSBatle](https://cssbattle.dev/) | :us: |
-| [Daily CSS Images](https://medium.com/coding-artist/daily-css-images-everything-you-need-to-know-e53ed6c1846c) | :us: |
-| [Enjoy CSS](http://enjoycss.com/) | :us: |
-| [Flexbox](https://flexbox.io) | :us: |
-| [LESSTESTER](https://lesstester.com/) | :us: |
-| [SassMeister](https://www.sassmeister.com/) | :us: |
-| [W3schools CSS Exercises](https://www.w3schools.com/css/exercise.asp) | :brazil: :us: |
-| [W3schools CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS) | :brazil: :us: |
-| [Flexbox Froggy (PT-BR)](http://flexboxfroggy.com/#pt-br) | :brazil: |
-| [Grid Garden (PT-BR)](http://cssgridgarden.com/#pt-br) | :brazil: |
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [100dayscss](https://100dayscss.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [30 dias de CSS](https://github.com/MilenaCarecho/30diasDeCSS#id01) | Treinamento / Training | :brazil: | Gratuito / Free |
+| [CSSBatle](https://cssbattle.dev/) | Desafio / Challenge | :us: | Gratuito / Free |
+| [Daily CSS Images](https://medium.com/coding-artist/daily-css-images-everything-you-need-to-know-e53ed6c1846c) | Treinamento / Training | :us: | Gratuito / Free |
+| [Enjoy CSS](http://enjoycss.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [Flexbox](https://flexbox.io) | Treinamento / Training | :us: | Gratuito / Free |
+| [LESSTESTER](https://lesstester.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [SassMeister](https://www.sassmeister.com/) | Treinamento / Training | :us: | Gratuito / Free |
+| [W3schools CSS Exercises](https://www.w3schools.com/css/exercise.asp) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
+| [W3schools CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
+| [Flexbox Froggy (PT-BR)](http://flexboxfroggy.com/#pt-br) | Jogo / Game | :brazil: | Gratuito / Free |
+| [Grid Garden (PT-BR)](http://cssgridgarden.com/#pt-br) | Jogo / Game | :brazil: | Gratuito / Free |
 
 ### JavaScript
-| Link | Idioma |
-| ----- | :-----: |
-| [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | :us: |
-| [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | :us: |
-| [Free Code Camp](https://www.freecodecamp.org/) | :us: |
-| [W3schools JS Exercises](https://www.w3schools.com/js/exercise_js.asp) | :brazil: :us: |
-| [W3schools JS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS) | :brazil: :us: |
-| [Exercícios JavaScript em PT-BR](https://github.com/thomaslima/exercicios-javascript) | :brazil: |
-| [JSRobot](https://lab.reaal.me/jsrobot/) | :us: |
-
----
-
-## 🎮 Games
-
-> Você pode aprender brincando com esses jogos interativos.
-
-### General
-| Link | Idioma |
-| ----- | :-----: |
-| [CheckiO](https://checkio.org/) | :us: |
-| [CodeCombat](https://codecombat.com/) | :us: |
-| [Code Monkey](https://www.playcodemonkey.com/) | :us: |
-| [CodeSignal](https://codesignal.com/) | :us: |
-| [Codewars](https://www.codewars.com/) | :us: |
-| [Code.org](https://code.org/learn) | :us: |
-| [CodinGame](https://www.codingame.com/) | :us: |
-| [Cyber DoJo](http://www.cyber-dojo.org/) | :us: |
-| [Elevator Saga](http://play.elevatorsaga.com/) | :us: |
-| [Hacker Org](http://www.hacker.org/) | :us: |
-| [Hora do Código de Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1) | :brazil: :us: |
-| [JS Robot](https://lab.reaal.me/jsrobot/) | :us: |
-| [Minecraft: Jornada do Herói](https://studio.code.org/s/hero/stage/1/puzzle/1) | :brazil: :us: |
-| [Minecraft: Viagem aquática](https://studio.code.org/s/aquatic/stage/1/puzzle/1) | :brazil: :us: |
-| [Programa com a Anna e a Elsa](https://studio.code.org/s/frozen/stage/1/puzzle/1) | :brazil: :us: |
-| [Screeps](https://screeps.com/) | :us: |
-| [Khan Academy - Jogos em JavaScript](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) | :brazil: |
-| [CodePark](https://codepark.com.br/) | :brazil: |
-
-### CSS
-| Link | Idioma |
-| ----- | :-----: |
-| [CSS Dinner](https://flukeout.github.io/) | :us: |
-| [CSS Speedrun](https://css-speedrun.netlify.app/) | :us: |
-| [Flexbox Defense](http://www.flexboxdefense.com/) | :us: |
-| [Flexbox Froggy](http://flexboxfroggy.com/) | :us: |
-| [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) | :us: |
-| [Flexplorer](http://bennettfeely.com/flexplorer/) | :us: |
-| [Grid Garden](http://cssgridgarden.com/) | :us: |
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) | Treinamento / Training | :us: | Gratuito / Free |
+| [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Treinamento / Training | :us: | Gratuito / Free |
+| [Free Code Camp](https://www.freecodecamp.org/) | Treinamento / Training | :us: | Gratuito / Free |
+| [W3schools JS Exercises](https://www.w3schools.com/js/exercise_js.asp) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
+| [W3schools JS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS) | Treinamento / Training | :brazil: :us: | Gratuito / Free |
+| [Exercícios JavaScript em PT-BR](https://github.com/thomaslima/exercicios-javascript) | Treinamento / Training | :brazil: | Gratuito / Free |
+| [JSRobot](https://lab.reaal.me/jsrobot/) | Jogo / Game | :us: | Gratuito / Free |
 
 ### GIT
-| Link | Idioma |
-| ----- | :-----: |
-| [Learn Git Branching](https://learngitbranching.js.org/) | :us: :brazil: :es: |
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Learn Git Branching](https://learngitbranching.js.org/) | Treinamento / Training | :us: :brazil: :es: | Gratuito / Free |
 
 ---
 
-## 🌍 Online Hackathons
-| Link | Idioma |
-| ----- | :-----: |
-| [Analytics Vidhya - DataHack](https://datahack.analyticsvidhya.com/contest/all/) | :us: |
-| [Challenge Rocket](https://challengerocket.com/hackathons-list.html) | :us: |
-| [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) | :us: |
+## 🎮 Jogos / Games
+
+### Geral / General
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [CheckiO](https://checkio.org/) | Jogo / Game | :us: | Gratuito / Free |
+| [CodeCombat](https://codecombat.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Code Monkey](https://www.playcodemonkey.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [CodeSignal](https://codesignal.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Codewars](https://www.codewars.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Code.org](https://code.org/learn) | Jogo / Game | :us: | Gratuito / Free |
+| [CodinGame](https://www.codingame.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Cyber DoJo](http://www.cyber-dojo.org/) | Jogo / Game | :us: | Gratuito / Free |
+| [Elevator Saga](http://play.elevatorsaga.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Hacker Org](http://www.hacker.org/) | Jogo / Game | :us: | Gratuito / Free |
+| [Hora do Código de Minecraft](https://studio.code.org/s/mc/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
+| [JS Robot](https://lab.reaal.me/jsrobot/) | Jogo / Game | :us: | Gratuito / Free |
+| [Minecraft: Jornada do Herói](https://studio.code.org/s/hero/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
+| [Minecraft: Viagem aquática](https://studio.code.org/s/aquatic/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
+| [Programa com a Anna e a Elsa](https://studio.code.org/s/frozen/stage/1/puzzle/1) | Jogo / Game | :brazil: :us: | Gratuito / Free |
+| [Screeps](https://screeps.com/) | Jogo / Game | :us: | Gratuito / Free |
+| [Khan Academy - Jogos em JavaScript](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations) | Treinamento / Training | :brazil: | Gratuito / Free |
+| [CodePark](https://codepark.com.br/) | Jogo / Game | :brazil: | Gratuito / Free |
 
 ---
 
-## ✏ Seja um dos contribuidores
+## 🌍 Hackathons Online / Online Hackathons
+| Link | Tipo / Type | Idioma / Language | Status |
+| ----- | :---: | :-----: | :---: |
+| [Analytics Vidhya - DataHack](https://datahack.analyticsvidhya.com/contest/all/) | Hackathon / Hackathon | :us: | Gratuito / Free |
+| [Challenge Rocket](https://challengerocket.com/hackathons-list.html) | Hackathon / Hackathon | :us: | Gratuito / Free |
+| [DEVPOST](https://devpost.com/hackathons?utf8=%E2%9C%93&search=&challenge_type=online&sort_by=Submission+Deadline) | Hackathon / Hackathon | :us: | Gratuito / Free |
 
+---
+
+## ✏ Seja um dos contribuidores / Be a Contributor
 Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
+Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
 ---
 
-## ⚖ Licença
-
+## ⚖ Licença / License
 Este projeto está licenciado. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
+This project is licensed. See [LICENSE](LICENSE) for more details.<br>
+
+<br>[⬆ Voltar ao índice / Back to index](#-índice)
+
 
