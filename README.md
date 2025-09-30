@@ -375,3 +375,15 @@ Bem-vindo ao **Calango Dev**, um hub de sites gratuitos para você aprender a de
 | [Notícias Tech](https://www.freecodecamp.org/news/) | Notícias / News | :us: | Gratuito / Free |
 | [Dicas CSS](https://css-tricks.com/) | Dicas / Tips | :us: | Gratuito / Free |
 | [MDN Web Docs](https://developer.mozilla.org/) | Documentação / Documentation | :brazil: | Gratuito / Free |
+
+
+---
+
+
+## ✏ Seja um dos contribuidores
+
+Clique em [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
+
+## ⚖ Licença
+
+Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
